@@ -22,3 +22,63 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Diretórios de build
+/target/
+/build/
+
+# Arquivos de configuração do Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Arquivos de configuração do Gradle
+.gradle
+build/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.orig
+
+# IDE: Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IDE: IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+*.env.local
+.env.*.local
+
+# Arquivos de testes e cobertura
+test-output/
+jacoco.exec
+coverage/
+
+# Arquivos gerados por Spring Boot DevTools
+spring-boot-devtools.properties
+
+# Arquivos de cache
+.cache/
