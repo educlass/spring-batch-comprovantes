@@ -1,0 +1,8 @@
+001092025                                                                                                                        
+10002000301092025                                                                                                                
+20100400012345678901234000003000002092025TRANSFERENCIA       PROCESSADO          aGVsbG93b3JsZDM=                                
+20202400045678912345678000005000002092025PAGAMENTO           APROVADO            YWJjZGVmZ2hpamtsbW5vcA==                        
+20202400045678912345678000005000002092025PAGAMENTO           APROVADO            cHFyc3R1dnd4eXo=                                
+20100400078901234567890000007000002092025DEPÓSITO            PROCESSADO          aGVsbG93b3JsZDU=                                
+80002000301092025                                                                                                                
+9                                                                                                                               

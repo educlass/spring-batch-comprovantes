@@ -1,0 +1,5 @@
+002092025                                                                                                                    
+10001000102092025                                                                                                            
+20100006012345678901234000001000002092025TRANSFEROK           U29tZSBpbWFnZSBkYXRhIGVuY29kZWQgaW4gYmFzZTY0                  
+80001000102092025                                                                                                            
+9                                                                                                                           
