@@ -1,0 +1,16 @@
+006092025                                                                                           
+1060920250000000012                                                                                 
+200123456789010000000250000000080TRANSFEROK      VGhpcyBpcyBhbiA4MC1ieXRlIGltYWdlIGZyYWdtZW50LXBhcnQ
+200123456789010000000250000000080TRANSFEROK      yMi1zcGFjZXMgY29tcGxldGVkICAg                      
+200123456789010000000250000000119PIX     OK      QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVoxMjM0NTY3ODkwYWJ
+200123456789010000000250000000119PIX     OK      jZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXoQUJDREVGR0hJSktMTU5
+200123456789010000000250000000119PIX     OK      PUFFSU1RVVldYWVo=                                  
+80000000012
+1060920250000000013                                                                                 
+200123456789010000000250000000080TRANSFEROK      VGhpcyBpcyBhbiA4MC1ieXRlIGltYWdlIGZyYWdtZW50LXBhcnQ
+200123456789010000000250000000080TRANSFEROK      yMi1zcGFjZXMgY29tcGxldGVkICAg                      
+200123456789010000000250000000119PIX     OK      QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVoxMjM0NTY3ODkwYWJ
+200123456789010000000250000000119PIX     OK      jZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXoQUJDREVGR0hJSktMTU5
+200123456789010000000250000000119PIX     OK      PUFFSU1RVVldYWVo=                                  
+80000000013                                                                                         
+9FIMARQUIVO                                                                                         

@@ -1,5 +1,8 @@
-002092025                                                                                                                    
-10001000102092025                                                                                                            
-20100006012345678901234000001000002092025TRANSFEROK           U29tZSBpbWFnZSBkYXRhIGVuY29kZWQgaW4gYmFzZTY0                  
-80001000102092025                                                                                                            
-9                                                                                                                           
+006092025                                                                                           
+1060920250000000012                                                                                 
+200032904233873000000110000000044PIX     OK      U29tZSBpbWFnZSBkYXRhIGVuY29kZWQgaW4gYmFzZTY0       
+200123456789010000000250000000050TRANSFEROK      QWx1bWluaSBpbWFnZW0gY29tIDUwIGJ5dGVzIGJhc2U2NCBvbg 
+200987654321000000000750000000048PIX     OK      VGhpcyBpcyBhIDQ1LWJ5dGUgaW1hZ2UgZGF0YSBleGFtcGxl   
+200112233445566000000990000000046TED     OK      QW5vdGhlciA1MC1ieXRlIGltYWdlIGZvciB0ZXN0aW5nLg     
+80000000012                                                                                         
+9FIMARQUIVO                                                                                         
